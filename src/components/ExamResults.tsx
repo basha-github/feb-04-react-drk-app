@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
 
+
+import { useState } from 'react';
 import '../css/exam.css'
 import axios from 'axios';
 
